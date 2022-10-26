@@ -1,15 +1,22 @@
 import './App.scss';
 import Nav from "./components/Navbar";
+import Footer from "./components/Footer";
+
 
 function App() {
   return (
     <div className="App">
-      {/* {Navbar} */}
+
       <Nav/>
 
       {/* {scroll} */}
 
       <div className="test"></div>
+
+
+      <Footer/>
+
+
 
     </div>
   );

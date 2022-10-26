@@ -1,9 +1,7 @@
 import React, { useState } from 'react';
-import { UseState } from 'react';
 import "./Navbar.scss";
 import { AiOutlineMenu } from "react-icons/ai";
 import { AiOutlineSearch } from "react-icons/ai";
-import { IoNotificationsOutline } from "react-icons/io5";
 import { IoNotifications } from "react-icons/io5";
 import { IoPersonSharp } from "react-icons/io5";
 
