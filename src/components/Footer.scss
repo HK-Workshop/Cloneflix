@@ -19,6 +19,10 @@
     color: inherit;
   }
 
+  a:hover{
+    text-decoration: underline;
+  }
+
   &__links {
     display: flex;
 

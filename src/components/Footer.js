@@ -7,7 +7,7 @@ function Footer() {
   return(
     <footer className="footer">
       <div className="container">
-        <h3>Des questions ? Appelez le (+33) 0805-543-063</h3>
+        <h3>Des questions ? Appelez le <a href="tel:(+33) 0805-543-063">(+33) 0805-543-063</a></h3>
 
         <ul className="footer__links">
           <li className="footer__link">
