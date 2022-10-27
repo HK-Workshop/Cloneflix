@@ -1,5 +1,7 @@
 import './App.scss';
 import Nav from "./components/Navbar";
+import Banner from "./components/Banner";
+import Content from "./components/Content";
 import Footer from "./components/Footer";
 
 
@@ -9,10 +11,9 @@ function App() {
 
       <Nav/>
 
-      {/* {scroll} */}
+      <Banner/>
 
-      <div className="test"></div>
-
+      <Content/>
 
       <Footer/>
 
